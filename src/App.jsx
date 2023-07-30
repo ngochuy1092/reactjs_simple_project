@@ -5,7 +5,7 @@ import { useState } from 'react'
 function App() {
 	const [color, setColor]= useState("red");
 	const changeColor= ()=> {
-		setColor(color === "red" ? "black":"red");
+		setColor(color === "red" ? "pink":"red");
 	} 
 
 	return (

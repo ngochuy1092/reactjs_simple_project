@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../javascript-amazon-project"
+	},
+	{
+		"path": "../../Rock"
+	},
+	{
+		"path": "../../react_part2"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "learn_react"
+  }
+}
