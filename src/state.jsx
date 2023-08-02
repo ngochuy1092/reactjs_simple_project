@@ -37,3 +37,19 @@ function App() {
 	)
 }
 
+////////////////// display div in array
+
+import { useState } from 'react'
+
+function App() {
+  const click = [ 
+  <div>hi</div>,
+  <div>hi2</div> ]
+  return (    
+    <div>          
+        {click}      
+    </div>
+  )
+}
+
+export default App
